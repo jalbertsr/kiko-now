@@ -36,13 +36,13 @@ paginate: 5
 footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
-  email:jalbertsr@protonmail.ch
+  email: jalbertsr@protonmail.ch
   facebook:
   flickr:
   github: https://www.github.com/jalbertsr
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
-  linkedin:https://www.linkedin.com/in/jalbertsr/
+  linkedin: https://www.linkedin.com/in/jalbertsr/
   pinterest:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
