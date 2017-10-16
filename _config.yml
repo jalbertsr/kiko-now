@@ -6,7 +6,7 @@
 name: tech vault
 
 # Short bio or description (displayed in the header)
-description: The place where discover code
+description: the place where code hides
 
 #
 # Flags below are optional
@@ -36,7 +36,7 @@ paginate: 5
 footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
-  email:
+  email:jalbertsr@protonmail.ch
   facebook:
   flickr:
   github: https://www.github.com/jalbertsr
@@ -62,7 +62,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://jalbertsr.github.io/tech-vault/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
