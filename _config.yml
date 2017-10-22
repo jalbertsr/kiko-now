@@ -39,15 +39,15 @@ footer-links:
   email: jalbertsr@protonmail.ch
   facebook:
   flickr:
-  github: https://www.github.com/jalbertsr
+  github: jalbertsr
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
-  linkedin: https://www.linkedin.com/in/jalbertsr/
+  linkedin: jalbertsr
   pinterest:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  twitter: https://twitter.com/joanalbertsr
+  twitter: joanalbertsr
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
